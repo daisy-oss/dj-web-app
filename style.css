@@ -1,0 +1,47 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size:21px ;
+    color: wheat;
+
+}
+#hi{
+    color: black;
+    font-size: 13px;
+
+}
+
+.class{
+    float: left;
+}
+#disk1{
+    width: 200px;
+    border-radius: 100px;
+}
+#hey{
+    font-size: 14px;
+    margin: 15px;
+}
+
+.class1{
+    float: right;
+}
+#disk2{
+    width: 200px;
+    border-radius: 100px;
+}
+#heyy{
+    font-size: 14px;
+    margin: 15px;
+}
+#class2{
+    width: 130px;
+    font-size: 20px;
+}
+
+
+canvas
+{
+    border:12px solid palegreen;
+    border-radius: 10px;
+}
